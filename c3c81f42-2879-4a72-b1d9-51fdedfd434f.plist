@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+	<plist version="1.0">
+	<dict>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>assets</key>
+				<array>
+					<dict>
+						<key>kind</key>
+						<string>software-package</string>
+						<key>url</key>
+						<string>http://192.168.1.100:8000/data/resigned/bf4b62d825b1cc1671383d582995aacbaf4f02c6/c3c81f42-2879-4a72-b1d9-51fdedfd434f.ipa</string>
+					</dict>
+					<dict>
+						<key>kind</key>
+						<string>display-image</string>
+						<key>url</key>
+						<string>http://192.168.1.100:8000/data/icon/A32971B6-CB03-474A-8857-22F1AA14358F/dbcd6ce5-ba37-4816-b44a-a943130c1fbf.png</string>
+					</dict>
+					<dict>
+						<key>kind</key>
+						<string>full-size-image</string>
+						<key>url</key>
+						<string>http://192.168.1.100:8000/data/icon/A32971B6-CB03-474A-8857-22F1AA14358F/dbcd6ce5-ba37-4816-b44a-a943130c1fbf.png</string>
+					</dict>
+				</array>
+				<key>metadata</key>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.hwy.mjfz</string>
+					<key>bundle-version</key>
+					<string>6.0</string>
+					<key>kind</key>
+					<string>software</string>
+					<key>title</key>
+					<string>和我游福州麻将</string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+	</plist>
